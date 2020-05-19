@@ -1,2 +1,2 @@
 # sampledemo
-This is just a sample
+This is just a sample file
